@@ -138,7 +138,7 @@ Estou continuamente aprimorando meus conhecimentos técnicos em **Python, SQL, P
 
 ## 📫 Conecte-se comigo
 
-🔗 **LinkedIn:** [Seu LinkedIn]([www.linkedin.com/in/rose-fernandes-172a79107](https://www.linkedin.com/in/rose-fernandes-172a79107/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6E5Rmb45RzKOsMshmRHlTQ%3D%3D))
+🔗 **LinkedIn:** [Seu LinkedIn]([www.linkedin.com/in/rose-fernandes-172a79107))
 
 🔗 **GitHub:** [Meu GitHub]([SEU-LINK-GITHUB-AQUI](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fgithub.com%2FROSEFERNANDES&urlhash=sm20&mt=s3hN_8Dkc3dt-msBYQuN0S5xhEXp1w5furKA73371zN_CCFyOSHxZAGqQWilfKdaOL54LkoZNuHPm3UqnzqtF0dYD98&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6E5Rmb45RzKOsMshmRHlTQ%3D%3D))
 
