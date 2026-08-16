@@ -1,0 +1,54 @@
+Para manter a coerência com o projeto que usamos na etapa anterior, eu faria o README do **SGPD RH**. Ele atende muito bem às três exigências: **objetivo, tecnologias e aprendizados**, além de contextualizar o problema e apresentar a solução de forma profissional.
+
+# SGPD RH – Sistema de Gestão de Processos Digitais para RH
+
+## 📌 Sobre o projeto
+
+O **SGPD RH** é um projeto acadêmico desenvolvido com o objetivo de propor uma solução digital para organizar e gerenciar processos de Recursos Humanos.
+
+A proposta surgiu da necessidade de estruturar processos que podem envolver diferentes responsáveis, etapas, documentos e avaliações, proporcionando maior organização, rastreabilidade e clareza sobre o andamento das atividades.
+
+## 🎯 Objetivo do projeto
+
+Desenvolver a estrutura de uma solução digital capaz de apoiar o gerenciamento de processos de RH, permitindo:
+
+* Criar e acompanhar processos;
+* Organizar etapas e responsabilidades;
+* Registrar informações e documentos;
+* Facilitar a avaliação dos processos;
+* Melhorar a rastreabilidade das atividades;
+* Proporcionar uma visão mais clara do fluxo dos processos.
+
+## 🛠️ Tecnologias e ferramentas utilizadas
+
+* **UML** – modelagem de atores e casos de uso;
+* **BPMN** – representação e análise dos processos;
+* **Visily AI** – criação dos protótipos das interfaces;
+* **IA Generativa** – apoio à análise, estruturação e documentação;
+* **Markdown** – documentação do projeto.
+
+## 🔎 Principais funcionalidades
+
+A solução foi estruturada considerando funcionalidades como:
+
+* Login e controle de acesso;
+* Dashboard para acompanhamento dos processos;
+* Criação e gerenciamento de processos;
+* Visualização dos detalhes do processo;
+* Acompanhamento das etapas;
+* Avaliação dos processos;
+* Organização das responsabilidades dos diferentes usuários.
+
+## 📚 O que foi aprendido
+
+O desenvolvimento do projeto proporcionou experiência prática em **levantamento e análise de requisitos, modelagem de processos, UML, BPMN e prototipação de interfaces**.
+
+Também permitiu compreender melhor como transformar uma necessidade de negócio em uma solução tecnológica estruturada, considerando usuários, responsabilidades, regras e funcionalidades.
+
+Outro aprendizado importante foi a utilização de **IA Generativa como ferramenta de apoio ao desenvolvimento**, contribuindo para pesquisa, organização de informações, documentação e elaboração da solução.
+
+## 🚀 Conclusão
+
+O SGPD RH possibilitou integrar conhecimentos de **análise de negócios, processos, tecnologia e IA**, demonstrando como uma solução digital pode contribuir para organizar processos e apoiar a eficiência operacional.
+
+O projeto também representa parte da minha evolução acadêmica e técnica na área de **Ciência de Dados, Tecnologia e Inteligência Artificial**.
